@@ -96,18 +96,6 @@ Adicione aqui o print do sistema funcionando:
 
 <img width="1012" height="726" alt="image" src="https://github.com/user-attachments/assets/9da13760-ce3a-4ed0-8364-ae3ae717cd56" />
 
-
----
-
-## 🚀 Como Executar
-
-```bash
-cd LabDotnet
-dotnet new console -n ConversorExpert
-cd ConversorExpert
-dotnet run
-```
-
 ---
 
 ## 📊 Exemplo de Uso
